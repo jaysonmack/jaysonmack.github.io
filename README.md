@@ -1,5 +1,5 @@
 # jaysonmack.github.io
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 
 
 # Digital Humanities Final Portfolio
