@@ -1,6 +1,7 @@
 # jaysonmack.github.io
-remote_theme: pages-themes/hacker@v0.2.0
-
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme # Welcome to my page!
 
 # Digital Humanities Final Portfolio
 Hi! My name is Jayson Mack and I am from Long Island, New York. I am a sophomore 
